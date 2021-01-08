@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+p{
+    border: 1px solid black;
+    background-color: #A52A2A;
+    width: 80%;
+    height:140px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Helvetica;
+    color: white;
+}
+
+.row{
+    width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .col-lg-1,.col-lg-2,.col-lg-3,.col-lg-4
+    {
+        float: left;
+        border: 1px solid green;
+    }
+    .col-lg-1 {
+        width:8.33%;
+    }
+    .col-lg-2 {
+        width: 16.66%;
+    }
+}
+
+@media (min-width: 950px) and (max-width:1199px)
+{
+    .col-md-1,.col-md-2
+    {
+        float: left;
+        border: 1px solid green;
+    }
+    .col-md-1 {
+        width: 8.33%;
+    }
+    .col-md-2 {
+        width : 16.66%;
+    }
+}
