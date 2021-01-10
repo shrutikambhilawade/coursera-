@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"co",
+				"colour"
+			],
+			[
+				"count",
+				"count"
+			],
+			[
+				"c",
+				"c"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"mysql_e",
+				"mysql_escape_string"
+			],
+			[
+				"ret",
+				"retval"
+			],
+			[
+				"db",
+				"dbpass"
+			],
+			[
+				"inli",
+				"inline\tdisplay"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"Result",
+				"result"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"drop",
+				"dropdown-content"
+			],
+			[
+				"dr",
+				"dropdown"
+			],
+			[
+				"w3",
+				"w3-bar-item"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"b",
+				"border\tAttr"
+			],
+			[
+				"backgro",
+				"background-size\tproperty"
+			],
+			[
+				"inter",
+				"internalPageList"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"con",
+				"container"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Desktop/lara/blog/bootstrap/app.php",
+		"/C/Users/HP/Desktop/lara/blog/routes/web.php",
+		"/C/Users/HP/Desktop/lara/blog/routes/console.php",
+		"/C/Users/HP/Desktop/lara/blog/routes/channels.php",
+		"/D/Travel/top.php",
+		"/C/Users/HP/Desktop/lara/blog/routes/api.php",
+		"/C/Users/HP/Desktop/lara/blog/public/css/app.css",
+		"/C/Users/HP/Desktop/lara/blog/storage/framework/views/fc19fccb3f5e06d5d65d17185d89b3d5cbabafc4.php",
+		"/C/Users/HP/Desktop/lara/blog/storage/framework/views/939c06a160eb7b0db1cc620db839838cc7e8b4d3.php",
+		"/C/Users/HP/Desktop/lara/blog/storage/framework/views/8033a00ab029933b8c3e67002bd34532496752cf.php",
+		"/C/Users/HP/Desktop/lara/blog/storage/logs/laravel-2020-12-06.log",
+		"/C/Users/HP/Desktop/lara/blog/storage/framework/views/4b3680bb475f5e3b861dd14f3843cb551ce8f92b.php",
+		"/C/Users/HP/Desktop/lara/blog/app/Http/myview.php",
+		"/C/Users/HP/Desktop/lara/blog/app/Http/routes.php",
+		"/C/Users/HP/Desktop/lara/blog/storage/app/public/.gitignore",
+		"/C/Users/HP/Desktop/lara/blog/config/app.php",
+		"/C/Users/HP/Desktop/lara/blog/app/Http/Controllers/Controller.php",
+		"/C/Users/HP/Desktop/lara/blog/app/Http/Controllers/Auth/ForgotPasswordController.php",
+		"/C/Users/HP/Desktop/lara/blog/public/index.php",
+		"/C/bootstrap/login.html",
+		"/D/Travel/Admin/index.php",
+		"/C/bootstrap/signin.html",
+		"/C/bootstrap/home.html",
+		"/C/Users/HP/Downloads/signin.html",
+		"/C/Users/HP/Downloads/login.html",
+		"/D/HTML/FOSS/Exp 1.3_basic/Variable scope.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/data tye.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/static.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/if else.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/switch.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/for.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/do while.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/array.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/multidim.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/array operation.php",
+		"/D/HTML/FOSS/Exp 1.3_basic/static var",
+		"/D/HTML/FOSS/Exp 1.2/Encapsulation.php",
+		"/D/HTML/FOSS/Exp 1.2/Object.php",
+		"/D/HTML/FOSS/Exp 1.2/constructor.php",
+		"/D/HTML/FOSS/Exp 1.2/Iterable.php",
+		"/D/HTML/FOSS/Exp 1.2/abstract.php",
+		"/D/HTML/FOSS/Exp 1.2/static.php",
+		"/D/HTML/FOSS/Exp 1.2/interface.php",
+		"/D/HTML/FOSS/Exp 1.2/inheritance.php",
+		"/D/HTML/FOSS/Exp 1.2/access specifier.php",
+		"/D/HTML/FOSS/Exp 1.2/get set.php",
+		"/D/HTML/FOSS/Exp 1.2/static",
+		"/D/HTML/Techprime/palindrom.php",
+		"/D/HTML/Techprime/fibonacci.php",
+		"/D/HTML/Exp 1.1/palindrom.php",
+		"/D/HTML/Exp 1.1/perfect.php",
+		"/D/HTML/Techprime/leap.php",
+		"/D/HTML/Techprime/index.css",
+		"/C/bootstrap/gallery.html",
+		"/D/HTML/Techprime/perfect.php",
+		"/D/HTML/Techprime/factorial.php",
+		"/D/HTML/Exp 1.1/leap.php",
+		"/D/HTML/Techprime/primr.php",
+		"/D/HTML/Exp 1.1/factorial.php",
+		"/D/HTML/Exp 1.1/fibonacci.php",
+		"/D/HTML/Exp 1.1/prime.php",
+		"/D/HTML/Techprime/Techprime.html",
+		"/D/1704021_php/arithmetic opration.php",
+		"/D/1704021_php/fibbo.php",
+		"/D/1704021_php/factorial.php",
+		"/D/HTML/Bootstamp/Index.html",
+		"/D/HTML/Bootstamp/Navbar.html",
+		"/D/HTML/Bootstamp/index.css",
+		"/D/HTML/Bootstamp/Techprime.html",
+		"/D/1704021_php/leapyear.php",
+		"/D/HTML/Deptartment/Dept (10).html",
+		"/D/HTML/Bootstamp/Bootstamp.html",
+		"/C/Users/HP/Documents/Result1.php",
+		"/C/Users/HP/Documents/reading.java",
+		"/D/HTML/Result1.php",
+		"/D/HTML/result.php",
+		"/D/HTML/Dept (10).html",
+		"/D/HTML/data.php",
+		"/D/HTML/Result.html",
+		"/D/HTML/Bootstamp.html",
+		"/C/Users/HP/Documents/E_lib.php",
+		"/C/Users/HP/Documents/TPO.html",
+		"/C/Users/HP/Documents/vision.html",
+		"/C/Users/HP/Documents/lab.html",
+		"/C/Users/HP/Documents/Library",
+		"/C/Users/HP/Documents/photo.html",
+		"/C/Users/HP/Documents/Dept (10).html",
+		"/C/Users/HP/Downloads/Dept (10).html",
+		"/C/Users/HP/Documents/Dept"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
