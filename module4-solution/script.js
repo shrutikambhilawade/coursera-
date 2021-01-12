@@ -1,13 +1,13 @@
 (function () {
 
-var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
+var names = ["sammer", "sadhana", "revant", "deepika", "Harshvardhan", "harshika", "Richa", "Pritya", "Latika", "soham"];
 
 for (var i = 0; i < names.length; i++) {
   var firstLetter = names[i].charAt(0).toLowerCase();
 
-  if (firstLetter === 'j') {
+  if (firstLetter === 's') {
     byeSpeaker(names[i]);
-  }
+  } 
   else {
     helloSpeaker(names[i]);
   }
